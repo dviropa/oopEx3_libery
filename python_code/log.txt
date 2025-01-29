@@ -1,0 +1,137 @@
+open books.csv succcessfully loaded
+load book list succcessfully
+open loanded_books.csv succcessfully loaded
+load loaned book list succcessfully
+open wait_list.csv succcessfully loaded
+load whiting list succcessfully
+----------------------------
+user:dvir login successful
+book borrowed successfully - user :dvir borrowed 1
+open books.csv succcessfully loaded
+updated books.csv successfully
+open available_books.csv succcessfully loaded
+updating available_books.csv  has failed
+open loanded_books.csv succcessfully loaded
+apdete loanded_books.csv succcessfully
+add user :dvir to 1 waiting list
+open wait_list.csv succcessfully loaded
+book borrowed fail - there are no available copies
+book returned successfully - user:dvir returned 1
+open books.csv succcessfully loaded
+updated books.csv successfully
+open available_books.csv succcessfully loaded
+updating available_books.csv  has failed
+open loanded_books.csv succcessfully loaded
+apdete loanded_books.csv succcessfully
+open wait_list.csv succcessfully loaded
+Notify all waiting list clients for '1' that the book is available.
+open books.csv succcessfully loaded
+load book list succcessfully
+open loanded_books.csv succcessfully loaded
+load loaned book list succcessfully
+open wait_list.csv succcessfully loaded
+load whiting list succcessfully
+----------------------------
+user:dvir login successful
+open books.csv succcessfully loaded
+load book list succcessfully
+open loanded_books.csv succcessfully loaded
+load loaned book list succcessfully
+open wait_list.csv succcessfully loaded
+load whiting list succcessfully
+----------------------------
+user:a login successful
+open books.csv succcessfully loaded
+load book list succcessfully
+open loanded_books.csv succcessfully loaded
+load loaned book list succcessfully
+open wait_list.csv succcessfully loaded
+Waiting list loaded successfully.
+----------------------------
+user:a login successful
+open books.csv succcessfully loaded
+load book list succcessfully
+open loanded_books.csv succcessfully loaded
+load loaned book list succcessfully
+open wait_list.csv succcessfully loaded
+Waiting list loaded successfully.
+----------------------------
+user:dvir login successful
+open books.csv succcessfully loaded
+load book list succcessfully
+open loanded_books.csv succcessfully loaded
+load loaned book list succcessfully
+open wait_list.csv succcessfully loaded
+Waiting list loaded successfully.
+----------------------------
+user:a login successful
+open books.csv succcessfully loaded
+load book list succcessfully
+open loanded_books.csv succcessfully loaded
+load loaned book list succcessfully
+open wait_list.csv succcessfully loaded
+Waiting list loaded successfully.
+----------------------------
+user:a login successful
+open books.csv succcessfully loaded
+load book list succcessfully
+open loanded_books.csv succcessfully loaded
+load loaned book list succcessfully
+open wait_list.csv succcessfully loaded
+Waiting list loaded successfully.
+----------------------------
+user:a login successful
+book borrowed successfully - user :a borrowed 1
+open books.csv succcessfully loaded
+updated books.csv successfully
+open available_books.csv succcessfully loaded
+updating available_books.csv  has failed
+open loanded_books.csv succcessfully loaded
+apdete loanded_books.csv succcessfully
+open books.csv succcessfully loaded
+load book list succcessfully
+open loanded_books.csv succcessfully loaded
+load loaned book list succcessfully
+open wait_list.csv succcessfully loaded
+Waiting list loaded successfully.
+----------------------------
+user:a login successful
+book borrowed successfully - user :a borrowed 1
+open books.csv succcessfully loaded
+updated books.csv successfully
+open available_books.csv succcessfully loaded
+updating available_books.csv  has failed
+open loanded_books.csv succcessfully loaded
+apdete loanded_books.csv succcessfully
+book returned successfully - user:a returned 1
+open books.csv succcessfully loaded
+updated books.csv successfully
+open available_books.csv succcessfully loaded
+updating available_books.csv  has failed
+open loanded_books.csv succcessfully loaded
+apdete loanded_books.csv succcessfully
+open wait_list.csv succcessfully loaded
+open books.csv succcessfully loaded
+load book list succcessfully
+open loanded_books.csv succcessfully loaded
+load loaned book list succcessfully
+open wait_list.csv succcessfully loaded
+Waiting list loaded successfully.
+----------------------------
+user:a login successful
+book borrowed successfully - user :a borrowed 1
+open books.csv succcessfully loaded
+updated books.csv successfully
+open available_books.csv succcessfully loaded
+updating available_books.csv  has failed
+open loanded_books.csv succcessfully loaded
+apdete loanded_books.csv succcessfully
+book returned successfully - user:a returned 1
+open books.csv succcessfully loaded
+updated books.csv successfully
+open available_books.csv succcessfully loaded
+updating available_books.csv  has failed
+open loanded_books.csv succcessfully loaded
+apdete loanded_books.csv succcessfully
+No clients on the waiting list for '1'.
+Display waiting list
